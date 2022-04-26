@@ -24,7 +24,7 @@ C51<- Read10X_h5("GSM4475048_C51_filtered_feature_bc_matrix.h5")
 C52<- Read10X_h5("GSM4475049_C52_filtered_feature_bc_matrix.h5")
 C100<- Read10X_h5("GSM4475050_C100_filtered_feature_bc_matrix.h5")
 
-setwd("D:/准备文章/covid19/code/covid")
+setwd("D:/covid19/code/covid")
 
 GSM3660650 <- Read10X("GSM3660650")
 
